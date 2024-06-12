@@ -1,4 +1,4 @@
-![Dyson Fanless PC](https://github.com/sourceduty/Dyson_Fanless_PC/assets/123030236/f4f1aa92-405e-4a16-9b1a-61573ae0ccdc)
+![Dyson Bladeless PC](https://github.com/sourceduty/Dyson_Fanless_PC/assets/123030236/b1b672ff-a7ed-4179-9798-9cd367ea221f)
 
 > Integrating Dyson’s pioneering airflow technology into the world of PC cases.
 
