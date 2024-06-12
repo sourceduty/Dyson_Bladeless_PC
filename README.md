@@ -22,6 +22,8 @@ The Dyson Bladeless PC Case represents a significant advancement in the realm of
 [Window-Mounted Computer](https://github.com/sourceduty/Window-Mounted_Computer)
 <br>
 [Pi-PC Case](https://github.com/sourceduty/Pi-PC_Case)
+<br>
+[Gas-Cooled Computer](https://github.com/sourceduty/Gas-Cooled_Computer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
